@@ -1,5 +1,4 @@
 
-the best Blooket hacks I've ever found
 to use them you have to import the html file into you Favorites/bookmarks
 if you have trouble enter the 3 dot menue and press import the file
 then choose the file withe the name of "bookmarklets" and import
